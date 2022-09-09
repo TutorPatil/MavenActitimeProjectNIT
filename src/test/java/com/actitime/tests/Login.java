@@ -47,33 +47,7 @@ public class Login extends BaseClass {
 		Assert.assertTrue(result, "Could not loggin to actitime...");				
 	}	
 	
-		/*
-		 * public static void main(String[] args) {
-		 * 
-		 * // Create the object of Extent Report class ExtentReports extent = new
-		 * ExtentReports();
-		 * 
-		 * // Creating the object of the file class where we want to write the extent
-		 * report File f = new File("./src/test/results/eresults.html");
-		 * 
-		 * // Create the object of Extent Spark Reporter to write the results to the
-		 * report file... ExtentSparkReporter reporter = new ExtentSparkReporter(f);
-		 * 
-		 * // attaching the reporter to write the data extent.attachReporter(reporter);
-		 * 
-		 * ExtentTest elogger = extent.createTest("Sample Extent Report Test");
-		 * 
-		 * elogger.log(Status.INFO, " Starting the Sample test case");
-		 * elogger.log(Status.INFO, " Trying to launch the browser...");
-		 * elogger.log(Status.INFO, " The first test case is completed..");
-		 * elogger.log(Status.FAIL, "The first test case Sample Test has Passed");
-		 * 
-		 * extent.flush();
-		 * 
-		 * 
-		 * 
-		 * }
-		 */
+		
 		
 	
 	 
