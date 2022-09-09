@@ -1,0 +1,11 @@
+Logs for the current run 
+************** This method will run before every Test case***************************
+***********Starting the method launchApplication**********************
+***********Launched the application...Ending the method launchApplication**********************
+*********** Starting the test case login_001**********************
+************** This method will run after every Test case***************************
+************** This method will run before every Test case***************************
+***********Starting the method launchApplication**********************
+***********Launched the application...Ending the method launchApplication**********************
+*********** Starting the test case login_002**********************
+************** This method will run after every Test case***************************
