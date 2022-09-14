@@ -19,7 +19,12 @@ public class Projects extends BaseClass{
 		}	
 	
 	
-	
-	
+	@Test
+	public static void Projects_002() throws IOException
+	{							
+		boolean result = CommonUtils.loginToActiTimeApplication();		
+		Assert.assertTrue(result, "Could not loggin to actitime...");	
+		
+	}	
 
 }
