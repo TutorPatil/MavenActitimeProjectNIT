@@ -40,25 +40,5 @@ public class Login extends BaseClass {
 		Assert.assertTrue(result, "Could not loggin to actitime...");				
 	}	
 	
-	@Test
-	public static void login_004() throws IOException
-	{							
-		boolean result = CommonUtils.loginToActiTimeApplication();		
-		Assert.assertTrue(result, "Could not loggin to actitime...");				
-	}	
-	
-	@Test
-	public static void login_005() throws IOException
-	{							
-		boolean result = CommonUtils.loginToActiTimeApplication();		
-		Assert.assertTrue(result, "Could not loggin to actitime...");				
-	}	
-	
-	@Test
-	public static void login_006() throws IOException
-	{							
-		boolean result = CommonUtils.loginToActiTimeApplication();		
-		Assert.assertTrue(result, "Could not loggin to actitime...");				
-	}	
 	
 }
