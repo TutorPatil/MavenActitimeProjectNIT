@@ -24,5 +24,12 @@ public class Projects extends BaseClass{
 		Assert.assertTrue(result, "Could not loggin to actitime...");	
 		
 	}	
+	
+	public static void Projects_003() throws IOException
+	{							
+		boolean result = CommonUtils.loginToActiTimeApplication();		
+		Assert.assertTrue(result, "Could not loggin to actitime...");	
+		
+	}	
 
 }
